@@ -9,12 +9,14 @@ Main repository containing all the example apps demonstrating features/functiona
 
 ### Featured In
 
-- [Official Flutter Samples](https://github.com/flutter/samples/blob/master/INDEX.md)
+- [Official Flutter Samples](https://github.com/flutter/samples/blob/d500d15c0f098b56e5bd549b32485cedba4843ef/INDEX.md#flutter-examples--)
 - [Flutter Weekly #11](https://mailchi.mp/5db146a7468b/flutter-weekly-11)
+- [Awesome Flutter](https://github.com/Solido/awesome-flutter#demonstrations)
+
 
 Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](https://flutter.io/widgets/)] [[Dart Lang](https://flutter.io/bootstrap-into-dart/)]
 
-<img src="stateful_widget/demo_img.gif" height="300em" /> <img src="using_bottom_nav_bar/demo_img.gif" height="300em" /> <img src="dropdown_button/demo_img.gif" height="300em" /> <img src="using_stepper/demo_img.gif" height="300em" /> <img src="using_tabs/demo_img.gif" height="300em" />
+<img src="stateful_widget/demo_img.gif" height="300em" /> <img src="using_bottom_nav_bar/demo_img.gif" height="300em" /> <img src="dropdown_button/demo_img.gif" height="300em" /> <img src="using_stepper/demo_img.gif" height="300em" /> <img src="using_tabs/demo_img.gif" height="300em" /><img src="bottom_sheet/demo.gif" height="300em"/>
 
 ## Example apps
 
@@ -25,6 +27,7 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 1. [Using EditText](/using_edittext)
 1. [Load local image](/load_local_image)
 1. [Load local json](/load_local_json)
+1. [Unit Testing](/unit_testing)
 1. [Using HTTP GET](/using_http_get)
 1. [Using Alert Dialog](/using_alert_dialog)
 1. [Using Stepper](/using_stepper)
@@ -42,6 +45,9 @@ Lookup Links: [[Setup Flutter](https://flutter.io/setup/)] [[Widgets Catalog](ht
 1. [Infinite List](/infinite_list)
 1. [Google Signin](/google_signin)
 1. [Persist Key Value](/persist_key_value)
+1. [Using InteractiveViewer](/using_interactiveviewer)
+1. [Using Bottom Sheet](/bottom_sheet)
+1. [View PDF File](/view_pdf_file)
 
 ### Complete apps with multiple features
 
